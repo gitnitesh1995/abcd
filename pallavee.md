@@ -40,9 +40,10 @@ sudo mv promtool /usr/local/bin/
 
 1. **Create a directory** for Prometheus data:
 
-   sudo mkdir /var/lib/prometheus
 
-2. **Ensure proper permissions** are set for the Prometheus user
+   ``` sudo mkdir /var/lib/prometheus ```
+
+3. **Ensure proper permissions** are set for the Prometheus user
 
    sudo chown prometheus:prometheus /var/lib/prometheus sudo chown -R prometheus:prometheus /etc/prometheus
 
