@@ -144,7 +144,7 @@ To access prometheus go to the web browser and enter
 
 Prometheus dashboard visible
 
-![](Aspose.Words.afa4dd7a-88c8-436f-a7ef-82c237cbb947.001.jpeg)
+![unnamed](https://github.com/user-attachments/assets/d51b8096-5b48-4aee-bbf5-4b25b22a3cdd)
 
 **Node exporter set up**
 
@@ -234,7 +234,7 @@ To access node exporter go to the web browser and enter localhost: 9100
 
 Node exporter dashboard visible
 
-![](Aspose.Words.afa4dd7a-88c8-436f-a7ef-82c237cbb947.002.jpeg)
+![unnamed (1)](https://github.com/user-attachments/assets/92896b9f-9eba-415e-a17e-a0ec4746286a)
 
 ALertmanager installation and set up
 
@@ -331,7 +331,7 @@ To access node exporter go to the web browser and enter localhost: 9093
 
 Alertmanager dashboard visible
 
-![](Aspose.Words.afa4dd7a-88c8-436f-a7ef-82c237cbb947.003.jpeg)
+![unnamed (2)](https://github.com/user-attachments/assets/7a59114b-4d30-4421-8737-e7e532145376)
 
 Redmine set up in podman
 
@@ -425,14 +425,16 @@ podman ps --pod
 
 **Output**
 
-![](Aspose.Words.afa4dd7a-88c8-436f-a7ef-82c237cbb947.004.png)
+![image](https://github.com/user-attachments/assets/87d7abb5-a2e6-4507-89f5-f1b547dc22b6)
+
 
 **Access redmine**
 
 1. **Go to the web browser and enter the following Localhost: 3100**
 1. **Redmine dashboard visible**
 
-   ![](Aspose.Words.afa4dd7a-88c8-436f-a7ef-82c237cbb947.005.jpeg)
+  ![unnamed (3)](https://github.com/user-attachments/assets/34f4e3cb-8d26-47d9-9388-97b012263d1f)
+
 
 **Integrating node exporter and alertmanager with prometheus**
 
@@ -699,5 +701,6 @@ To run script use - Python3 alert\_webhook.py
 
 Output
 
-![](Aspose.Words.afa4dd7a-88c8-436f-a7ef-82c237cbb947.006.jpeg)
+![unnamed (4)](https://github.com/user-attachments/assets/17049f59-7b41-437f-bb36-b6f9cfd71327)
+
 
