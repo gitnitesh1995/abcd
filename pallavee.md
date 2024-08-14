@@ -32,9 +32,13 @@ sudo mv promtool /usr/local/bin/
 6. Move Configuration Files to /etc/prometheus sudo mkdir /etc/prometheus
 6. **Move the configuration files** to /etc/prometheus: sudo mv prometheus.yml /etc/prometheus/
 
+   ```
    sudo mv consoles /etc/prometheus/
+   ```
 
+   ```
    sudo mv console\_libraries /etc/prometheus/
+   ```
 
 **Set Up the Data Directory**
 
